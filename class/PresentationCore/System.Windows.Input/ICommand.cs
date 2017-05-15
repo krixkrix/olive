@@ -23,7 +23,9 @@
 //	Chris Toshok (toshok@ximian.com)
 //
 
-#if !NET_4_5
+// HACK KN include also for NET_4_5
+#if true
+// !NET_4_5
 
 using System;
 

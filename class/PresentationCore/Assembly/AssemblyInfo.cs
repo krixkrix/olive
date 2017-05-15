@@ -108,5 +108,6 @@ using System.Windows.Markup;
 #endif
 
 #if NET_4_5
-[assembly: TypeForwardedTo (typeof(ICommand))]
+// HACK KN, see class/PresentationCore/System.Windows.Input/ICommand.cs
+// [assembly: TypeForwardedTo (typeof(ICommand))]
 #endif
