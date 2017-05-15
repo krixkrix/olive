@@ -342,6 +342,7 @@ System.Windows.Media.Imaging/BitmapCacheOptions.cs
 System.Windows.Media.Imaging/BitmapCreateOptions.cs
 System.Windows.Media.Imaging/BitmapPalette.cs
 System.Windows.Media.Imaging/BitmapSource.cs
+System.Windows.Media.Imaging/BitmapImage.cs
 System.Windows.Media.Imaging/PngInterlaceOption.cs
 System.Windows.Media.Imaging/Rotation.cs
 System.Windows.Media.Imaging/TiffCompressOption.cs

@@ -382,6 +382,7 @@
     <Compile Include="System.Windows.Media.Imaging\BitmapCreateOptions.cs" />
     <Compile Include="System.Windows.Media.Imaging\BitmapPalette.cs" />
     <Compile Include="System.Windows.Media.Imaging\BitmapSource.cs" />
+    <Compile Include="System.Windows.Media.Imaging\BitmapImage.cs" />
     <Compile Include="System.Windows.Media.Imaging\PngInterlaceOption.cs" />
     <Compile Include="System.Windows.Media.Imaging\Rotation.cs" />
     <Compile Include="System.Windows.Media.Imaging\TiffCompressOption.cs" />
